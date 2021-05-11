@@ -1,0 +1,6 @@
+Description: Pattern with packages for polaris configurations
+Name: jolla-configuration-polaris
+Requires:
+- patterns-sailfish-device-configuration-polaris
+
+Summary: Jolla Configuration polaris
