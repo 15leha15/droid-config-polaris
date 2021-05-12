@@ -13,7 +13,6 @@ Requires: droid-config-polaris-preinit-plugin
 Requires: droid-config-polaris-flashing
 Requires: droid-config-polaris-bluez5
 Requires: droid-hal-version-polaris
-
 # Hybris packages
 Requires: libhybris-libEGL
 Requires: libhybris-libGLESv2
