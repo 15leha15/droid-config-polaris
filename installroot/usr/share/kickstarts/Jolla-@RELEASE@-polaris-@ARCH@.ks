@@ -19,7 +19,7 @@ repo --name=hotfixes-@RELEASE@ --baseurl=https://releases.jolla.com/releases/@RE
 repo --name=jolla-@RELEASE@ --baseurl=https://releases.jolla.com/releases/@RELEASE@/jolla/@ARCH@/
 
 %packages
-@Jolla Configuration polaris
+patterns-sailfish-device-configuration-polaris
 %end
 
 %attachment

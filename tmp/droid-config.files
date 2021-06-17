@@ -81,5 +81,7 @@
 /etc/selinux/minimum/contexts/dbus_contexts
 /etc/selinux/config
 /var/lib/environment/compositor/droid-hal-device.conf
+/usr/libexec/droid-hybris/system/etc/init/disabled_services_device.rc
+/usr/libexec/droid-hybris/system/etc/init/overrides.rc
 /usr/libexec/droid-hybris/system/etc/ld.config.29.txt
 /usr/share/ssu/features.d/adaptation-community.ini
