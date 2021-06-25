@@ -38,6 +38,9 @@ Requires: qt5-plugin-generic-evdev
 Requires: pulseaudio-modules-droid
 Requires: pulseaudio-modules-droid-hidl
 
+# For suspend to work with enabled Wi-Fi on newer Qualcomm devices
+Requires: sailfish-connman-plugin-suspend
+
 # The -dummy-af is needed for newer devices that run the main
 # audiosystem-passthrough in qti mode (e.g. >=Android 9 Qualcomm),
 # to fix non-responding Camera app and/or voice during a phone call:

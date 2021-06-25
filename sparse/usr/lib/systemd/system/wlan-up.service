@@ -1,0 +1,9 @@
+Description=Wlan Up script
+After=bluetooth.service
+
+[Service]
+ExecStart=/usr/bin/droid/wlan-up.sh
+
+[Install]
+WantedBy=network.target
+
