@@ -47,9 +47,6 @@
 /usr/lib/systemd/system/actdead.target.wants/droid-hal-init.service
 /usr/lib/systemd/system/droid-reclaim-memory.timer
 /usr/lib/systemd/system/timers.target.wants/droid-reclaim-memory.timer
-/usr/lib/systemd/user/jolla-actdead-charging.service.d/50-compositor.conf
-/usr/lib/systemd/user/lipstick.service.d/50-compositor.conf
-/usr/lib/systemd/user/jolla-startupwizard-pre-user-session.service.d/50-compositor.conf
 /usr/lib/sysctl.d/ipv6-settings.conf
 /usr/lib/sysctl.d/ipv4-settings.conf
 /usr/bin/droid/get_partition.sh
