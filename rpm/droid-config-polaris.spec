@@ -11,6 +11,7 @@
 # Community HW adaptations need this
 %define community_adaptation 1
 
+%define have_modem 1
 %define android_version_major 11
 
 # Device-specific ofono configuration
